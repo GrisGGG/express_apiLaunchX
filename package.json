@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GrisGGG/express_apiLaunchX/issues"
   },
-  "homepage": "https://github.com/GrisGGG/express_apiLaunchX#readme"
+  "homepage": "https://github.com/GrisGGG/express_apiLaunchX#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
